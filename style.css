@@ -1,0 +1,22 @@
+div {
+    text-align: center;
+}
+
+button {
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    color: antiquewhite;
+}
+
+.start-btn {
+    background-color: green;
+}
+
+.pause-btn {
+    background-color: gray;
+}
+
+.stop-btn {
+    background-color: red;
+}
