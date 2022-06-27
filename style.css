@@ -1,3 +1,11 @@
+
+ body {
+    background-color: black;
+ }
+ h1 {
+    color: antiquewhite;
+    font-size: 50px;
+ }
 div {
     text-align: center;
 }
@@ -7,6 +15,12 @@ button {
     width: 5.5em;
     border: none;
     color: antiquewhite;
+    border-radius: 5px;
+   
+}
+
+button:hover {
+    cursor: pointer;
 }
 
 .start-btn {
@@ -14,7 +28,7 @@ button {
 }
 
 .pause-btn {
-    background-color: gray;
+    background-color: rgb(64, 63, 63);
 }
 
 .stop-btn {
